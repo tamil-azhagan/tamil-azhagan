@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamil-azhagan
-- 👀 I’m interested in Coding and machine projects
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in Coding and Machine Learning Projects
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me azhgantamil578@gmail.com
 
